@@ -1,5 +1,5 @@
 ---
-title: Humane Typography in the Digital Age
+title: This is a a new title for this post
 date: "2017-08-19T22:40:32.169Z"
 template: "post"
 draft: false
