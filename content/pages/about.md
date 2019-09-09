@@ -10,7 +10,7 @@ I am an email marketing professional dedicated to making email work for everyone
 
 I work across the email marketing spectrum from the design/creative side to the strategic/technical side. Whether you want a custom coded email template in HTML/CSS or you need a complex, multi-month email marketing campaign built from scratch, I can help. 
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+![This is a photo of me! I'm wearing a suit even though I never wear suits.](/media/aboutMeCoverPhoto.jpg)
 
 *Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
 
