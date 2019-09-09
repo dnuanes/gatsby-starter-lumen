@@ -25,11 +25,11 @@ module.exports = {
     }
   ],
   author: {
-    name: 'Dillon',
+    name: 'Dillon Nuanes',
     photo: '/headshot.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Email Marketing Manager working within higher education',
     contacts: {
-      email: '',
+      email: 'dillonbnuanes@gmail.com',
       facebook: '#',
       telegram: '#',
       twitter: '#',
