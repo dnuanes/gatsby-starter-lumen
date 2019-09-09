@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'Dillon Nuanes',
     photo: '/headshot.jpg',
-    bio: 'Email Marketing Manager working within higher education',
+    bio: 'I make email marketing work for everyone.',
     contacts: {
       email: 'dillonbnuanes@gmail.com',
       facebook: '',
@@ -37,7 +37,7 @@ module.exports = {
       rss: '',
       vkontakte: '',
       linkedin: 'https://www.linkedin.com/in/dnuanes/',
-      instagram: 'https://www.instagram.com/young_penny_pup/',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: ''
