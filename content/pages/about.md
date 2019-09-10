@@ -18,6 +18,4 @@ To compliment my official work, I've undertaken a number of freelance email gigs
 
 When I'm not working, you can find me spending time with my girlfriend and dog, exploring the outdoors, cooking, and trying to eat the best food around. 
 
-![My girlfriend, myself, and our pup](/media/aboutMeCoverPhoto2.jpg)
-
-Is this photo too long?
+<!-- ![My girlfriend, myself, and our pup](/media/aboutMeCoverPhoto2.jpg) -->
