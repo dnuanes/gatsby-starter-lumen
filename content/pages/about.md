@@ -12,4 +12,3 @@ I work across the email spectrum from the design/creative side to the strategic/
 
 ![This is a photo of me! I'm wearing a suit even though I never wear suits.](/media/aboutMeCoverPhoto.jpg)
 
-*This is me wearing a suit, something I mostly try to avoid.*
