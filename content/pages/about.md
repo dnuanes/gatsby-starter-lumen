@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 template: "page"
-socialImage: "/media/newAboutMe.jpg"
+socialImage: "/media/newAboutme.jpg"
 ---
 
 👋 Hello!
