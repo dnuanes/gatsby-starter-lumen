@@ -1,15 +1,13 @@
 ---
-title: This is a new title for this post
-date: "2017-08-19T22:40:32.169Z"
+title: Welcome to my blog
+date: "2020-20-15"
 template: "post"
 draft: false
-slug: "/posts/humane-typography-in-the-digital-age/"
-category: "TEST CATEGORY"
+slug: "/posts/Welcome-Post/"
+category: "GENERAL"
 tags:
-  - "Design"
-  - "Typography"
-  - "Web Development"
-description: "An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts."
+  - "About Me"
+description: "You've made yourself to my blog. Here's what you should expect when you visit me here."
 socialImage: "/media/42-line-bible.jpg"
 ---
 
