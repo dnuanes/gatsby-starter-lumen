@@ -1,6 +1,6 @@
 ---
 title: Welcome to my blog
-date: "2020-20-15"
+date: ""
 template: "post"
 draft: false
 slug: "/posts/Welcome-Post/"
