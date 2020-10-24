@@ -25,7 +25,7 @@ module.exports = {
     }
   ],
   author: {
-    name: 'Better Emails<br>Principal: Dillon Nuanes',
+    name: 'Better Emails',
     photo: '/BE-logo.png',
     bio: 'Let\'s make email marketing work for you.',
     contacts: {
@@ -33,7 +33,7 @@ module.exports = {
       facebook: '',
       telegram: '',
       twitter: '',
-      github: 'dnuanes',
+      github: '',
       rss: '',
       vkontakte: '',
       linkedin: 'dnuanes',
